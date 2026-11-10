@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package>memchr</package>
+    <repository>https://crates.io</repository>
+    <test_mode>false</test_mode>
+    <test_file>tests/test_graph.txt</test_file>
+    <ascii_tree>true</ascii_tree>
+    <filter></filter>
+</config>
