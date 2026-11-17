@@ -1,7 +1,4 @@
-
-
 #include "common.h"
-
 #include <comdef.h>
 #include <set>
 #include <stdexcept>
